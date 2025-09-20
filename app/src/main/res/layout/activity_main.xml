@@ -28,6 +28,7 @@
         <RadioButton
             android:id="@+id/rb_a"
             android:layout_width="350dp"
+            android:textColor="@color/black"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:background="@drawable/botao2"
@@ -36,6 +37,7 @@
         <RadioButton
             android:id="@+id/rb_b"
             android:layout_width="350dp"
+            android:textColor="@color/black"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:background="@drawable/botao2"
@@ -44,6 +46,7 @@
         <RadioButton
             android:id="@+id/rb_c"
             android:layout_width="350dp"
+            android:textColor="@color/black"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:background="@drawable/botao2"
@@ -52,6 +55,7 @@
         <RadioButton
             android:id="@+id/rb_d"
             android:layout_width="350dp"
+            android:textColor="@color/black"
             android:layout_height="wrap_content"
             android:background="@drawable/botao2"
             android:text="@string/texto_alternativa_d" />
